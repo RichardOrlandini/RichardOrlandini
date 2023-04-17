@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/richard-orlandini-51339a237/">Richard Orlandini 😃️</a>
+    <a href="https://www.linkedin.com/in/richard-orlandini-51339a237/"  target="_blank">Richard Orlandini 😃️</a>
   </h1>
   
   <p align="center">
@@ -11,7 +11,7 @@
   </div>
   
   <div align="center">
-  <a href="https://github.com/RichardOrlandini">
+  <a href="https://github.com/RichardOrlandini"  target="_blank">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RichardOrlandini&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOrlandini&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
@@ -45,5 +45,5 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats"  target="_blank">Anurag Hazra</a> e <a href="https://github.com/rafaballerini"  target="_blank" >  Rafaella Ballerini</a></p>
 </div>
